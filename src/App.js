@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import logo from './HEB_logo.svg';
+import './App.scss';
 
 class App extends Component {
   render() {
@@ -8,21 +8,15 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
         </header>
+        <div class="mdc-text-field">
+            <input type="text" id="my-text-field" class="mdc-text-field__input"/>
+            <label class="mdc-floating-label" for="my-text-field">Hint text</label>
+            <div class="mdc-line-ripple"></div>
+        </div>
       </div>
     );
   }
 }
-
+    
 export default App;

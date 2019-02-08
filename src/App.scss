@@ -1,15 +1,22 @@
+// @import "@material/textfield/mdc-text-field";
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 15vmin;
+}
+
+.input{
+  margin-top: 20px;
+  height: 30px;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #424046;
+  min-height: 25vh;
   display: flex;
   flex-direction: column;
   align-items: center;
