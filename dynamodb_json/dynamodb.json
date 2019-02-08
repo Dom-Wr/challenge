@@ -1,0 +1,222 @@
+[
+    {
+        "ID": 753542,
+        "Description": "banana",
+        "lastSold": "9/5/2017",
+        "ShelfLife": "4d",
+        "Department": "Produce",
+        "Price": " $2.99 ",
+        "Unit": "lb",
+        "xFor": 1,
+        "Cost": " $0.44"
+    },
+    {
+        "ID": 321654,
+        "Description": "apples",
+        "lastSold": "9/6/2017",
+        "ShelfLife": "7d",
+        "Department": "Produce",
+        "Price": " $1.49 ",
+        "Unit": "lb",
+        "xFor": 1,
+        "Cost": " $0.20"
+    },
+    {
+        "ID": 95175,
+        "Description": "Strawberry",
+        "lastSold": "9/7/2017",
+        "ShelfLife": "3d",
+        "Department": "Produce",
+        "Price": " $2.49 ",
+        "Unit": "lb",
+        "xFor": 1,
+        "Cost": " $0.10"
+    },
+    {
+        "ID": 321753,
+        "Description": "onion",
+        "lastSold": "9/8/2017",
+        "ShelfLife": "9d",
+        "Department": "Produce",
+        "Price": " $1.00 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.05"
+    },
+    {
+        "ID": 987654,
+        "Description": "Tomato",
+        "lastSold": "9/9/2017",
+        "ShelfLife": "4d",
+        "Department": "Produce",
+        "Price": " $2.35 ",
+        "Unit": "lb",
+        "xFor": 1,
+        "Cost": " $0.20"
+    },
+    {
+        "ID": 11122,
+        "Description": "grapes",
+        "lastSold": "9/10/2017",
+        "ShelfLife": "7d",
+        "Department": "Produce",
+        "Price": " $4.00 ",
+        "Unit": "lb",
+        "xFor": 1,
+        "Cost": " $1.20"
+    },
+    {
+        "ID": 124872,
+        "Description": "Lettuce",
+        "lastSold": "9/11/2017",
+        "ShelfLife": "5d",
+        "Department": "Produce",
+        "Price": " $0.79 ",
+        "Unit": "lb",
+        "xFor": 1,
+        "Cost": " $0.10"
+    },
+    {
+        "ID": 113,
+        "Description": "bread",
+        "lastSold": "9/12/2017",
+        "ShelfLife": "14d",
+        "Department": "Grocery",
+        "Price": " $1.50 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.12"
+    },
+    {
+        "ID": 1189,
+        "Description": "hamburger buns",
+        "lastSold": "9/13/2017",
+        "ShelfLife": "14d",
+        "Department": "Grocery",
+        "Price": " $1.75 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.14"
+    },
+    {
+        "ID": 12221,
+        "Description": "pasta sauce",
+        "lastSold": "9/14/2017",
+        "ShelfLife": "23d",
+        "Department": "Grocery",
+        "Price": " $3.75 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $1.00"
+    },
+    {
+        "ID": 1111,
+        "Description": "cheese slices",
+        "lastSold": "9/15/2017",
+        "ShelfLife": "20d",
+        "Department": "Grocery",
+        "Price": " $2.68 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.40"
+    },
+    {
+        "ID": 18939,
+        "Description": "sliced turkey",
+        "lastSold": "9/16/2017",
+        "ShelfLife": "20d",
+        "Department": "Grocery",
+        "Price": " $3.29 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.67"
+    },
+    {
+        "ID": 90879,
+        "Description": "tortilla chips",
+        "lastSold": "9/17/2017",
+        "ShelfLife": "45d",
+        "Department": "Grocery",
+        "Price": " $1.99 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.14"
+    },
+    {
+        "ID": 119290,
+        "Description": "cereal",
+        "lastSold": "9/18/2017",
+        "ShelfLife": "40d",
+        "Department": "Grocery",
+        "Price": " $3.19 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.19"
+    },
+    {
+        "ID": 4629464,
+        "Description": "canned vegtables",
+        "lastSold": "9/19/2017",
+        "ShelfLife": "200d",
+        "Department": "Grocery",
+        "Price": " $1.89 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $0.19"
+    },
+    {
+        "ID": 9000001,
+        "Description": "headache medicine",
+        "lastSold": "9/20/2017",
+        "ShelfLife": "365d",
+        "Department": "Pharmacy",
+        "Price": " $4.89 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $1.90"
+    },
+    {
+        "ID": 9000002,
+        "Description": "Migraine Medicine",
+        "lastSold": "9/21/2017",
+        "ShelfLife": "365d",
+        "Department": "Pharmacy",
+        "Price": " $5.89 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $1.90"
+    },
+    {
+        "ID": 9000003,
+        "Description": "Cold and Flu",
+        "lastSold": "9/22/2017",
+        "ShelfLife": "365d",
+        "Department": "Pharmacy",
+        "Price": " $3.29 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $1.90"
+    },
+    {
+        "ID": 9000004,
+        "Description": "Allegry Medicine",
+        "lastSold": "9/23/2017",
+        "ShelfLife": "365d",
+        "Department": "Pharmacy",
+        "Price": " $3.00 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $1.25"
+    },
+    {
+        "ID": 9000005,
+        "Description": "Pain",
+        "lastSold": "9/24/2017",
+        "ShelfLife": "365d",
+        "Department": "Pharmacy",
+        "Price": " $2.89 ",
+        "Unit": "Each",
+        "xFor": 1,
+        "Cost": " $1.00"
+    }
+]
